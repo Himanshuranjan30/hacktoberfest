@@ -3,3 +3,6 @@ Github:https://github.com/Himanshuranjan30/hacktoberfest/edit/master/README.md</
 
 Name: Bronzegamer<br/>
 Github:https://github.com/bronzegamer</br>
+
+Name: Prithviraj Biswas<br/>
+Github:https://github.com/prithvirajbytes</br>
