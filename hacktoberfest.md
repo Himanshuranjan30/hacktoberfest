@@ -59,3 +59,5 @@ Github:https://github.com/FranMartiarena</br>
 Name: Andrea Longo
 Github: https://github.com/longo-andrea</br>
 
+Name: João Praia
+Github: https://github.com/ThonkPT
