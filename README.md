@@ -7,4 +7,4 @@
  - That's it,It's a Contribution.
  - Enjoy
 //happy contributions 
-//thanx
+//Enjoy the Hacktoberfest!
