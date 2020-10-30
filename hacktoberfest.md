@@ -72,5 +72,5 @@ Github: https://github.com/Kannupriyasingh
 Name: Thana<br/>
 Github:https://github.com/eXitHere</br>
 
-Name: Yash Sanghvi
-Github: https://github.com/yashsanghvi2001
+Name: Yash Sanghvi </br>
+Github: https://github.com/yashsanghvi2001 </br>
