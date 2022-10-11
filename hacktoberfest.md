@@ -72,5 +72,5 @@ Github: https://github.com/Kannupriyasingh
 Name: Thana<br/>
 Github:https://github.com/eXitHere</br>
 
-Name" Khush Sachdeva"
+Name: "Khush Sachdeva"
 Github: https://github.com/khush3211
